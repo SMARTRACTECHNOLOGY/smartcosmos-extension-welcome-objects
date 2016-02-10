@@ -1,4 +1,4 @@
 /**
- * Created by as on 10.02.16.
+ * Configuration for the SMART COSMOS Objects Welcome Page Extension.
  */
 package net.smartcosmos.extension.smartcosmos.server.extension.welcome.objects.config;
