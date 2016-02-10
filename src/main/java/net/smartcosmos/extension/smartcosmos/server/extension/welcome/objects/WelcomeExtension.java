@@ -30,7 +30,7 @@ import org.slf4j.LoggerFactory;
 public class WelcomeExtension extends AbstractServerExtension<WelcomeExtensionConfiguration>
 {
     private static final Logger LOG = LoggerFactory.getLogger(WelcomeExtension.class);
-    public static final String EXTENSION_ID = "decfda6d-5aa1-49be-9c5a-5047fbc06dc9";
+    public static final String EXTENSION_ID = "704b9702-b7ea-419d-a866-0c2f0ca9c8ff";
 
     protected WelcomeExtension()
     {
