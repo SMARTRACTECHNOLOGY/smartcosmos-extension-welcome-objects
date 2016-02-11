@@ -32,7 +32,7 @@ public class WelcomeExtension extends AbstractServerExtension<WelcomeExtensionCo
     private static final Logger LOG = LoggerFactory.getLogger(WelcomeExtension.class);
     public static final String EXTENSION_ID = "704b9702-b7ea-419d-a866-0c2f0ca9c8ff";
 
-    protected WelcomeExtension()
+    public WelcomeExtension()
     {
         super(EXTENSION_ID, "WelcomeObjectsExtension", WelcomeExtensionConfiguration.class);
     }
