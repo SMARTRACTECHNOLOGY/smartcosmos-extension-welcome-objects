@@ -1,0 +1,9 @@
+#
+# Enables or disables the Objects Welcome Extension bundle
+#
+enabled: true
+
+#
+# Logical name for the bundle (required by Objects Server Extensions)
+#
+extensionName: SMART COSMOS Objects Welcome Page Extension

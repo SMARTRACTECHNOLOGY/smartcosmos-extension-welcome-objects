@@ -6,7 +6,8 @@ To integrate this module into Objects, add the following to your `objects.yml`:
 
 ```
 serverExtensions:
-  Welcome: net.smartcosmos.extension.device.smartcosmos.extension.server.DeviceExtension
+  Welcome: net.smartcosmos.extension.smartcosmos.server.extension.welcome.objects.WelcomeExtension
+
 
 serverExtensionConfigurationPaths:
   Welcome: path/to/your/welcome-objects.yml
