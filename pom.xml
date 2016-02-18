@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>smartcosmos-extension-welcome-objects</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1-development-SNAPSHOT</version>
 
     <name>SMART COSMOS Objects Welcome Page Extension</name>
     <description>SMART COSMOS Objects Welcome Page Extension</description>
