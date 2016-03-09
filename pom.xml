@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>smartcosmos-extension-welcome-objects</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <name>SMART COSMOS Objects Welcome Page Extension</name>
     <description>SMART COSMOS Objects Welcome Page Extension</description>
@@ -74,7 +74,7 @@
     <scm>
         <connection>scm:git:git://github.com/SMARTRACTECHNOLOGY/smartcosmos-extension-welcome-objects.git</connection>
         <developerConnection>scm:git:git@github.com:SMARTRACTECHNOLOGY/smartcosmos-extension-welcome-objects.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.0.1</tag>
         <url>https://github.com/SMARTRACTECHNOLOGY/smartcosmos-extension-welcome-objects</url>
     </scm>
 
