@@ -4,8 +4,8 @@
     <parent>
         <groupId>net.smartcosmos.extension</groupId>
         <artifactId>smartcosmos-extension-starter</artifactId>
-        <version>2.13.0</version>
-        <relativePath />
+        <version>2.13.1</version>
+        <relativePath></relativePath>
     </parent>
 
     <artifactId>smartcosmos-extension-welcome-objects</artifactId>
@@ -22,10 +22,12 @@
         <dependency>
             <groupId>net.smartcosmos</groupId>
             <artifactId>smartcosmos-extension-api</artifactId>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>net.smartcosmos.extension</groupId>
             <artifactId>smartcosmos-extension-starter-test</artifactId>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
